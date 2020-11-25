@@ -1,0 +1,632 @@
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/index.html
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\index.html
+Content Type: text/html
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/images/newsletter_popup_bg.jpg
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\images\newsletter_popup_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/images/icons/favicon.ico
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\images\icons\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/css/style.min.css
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\css\style.min.css
+Content Type: text/css
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/vendor/fontawesome-free/css/all.min.css
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\vendor\fontawesome-free\css\all.min.css
+Content Type: text/css
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/vendor/simple-line-icons/css/simple-line-icons.min.css
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\vendor\simple-line-icons\css\simple-line-icons.min.css
+Content Type: text/css
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/category.html
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\category.html
+Content Type: text/html
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/my-account.html
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\my-account.html
+Content Type: text/html
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/about.html
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\about.html
+Content Type: text/html
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/blog.html
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\blog.html
+Content Type: text/html
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/contact.html
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\contact.html
+Content Type: text/html
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/login.html
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\login.html
+Content Type: text/html
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/cart.html
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\cart.html
+Content Type: text/html
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/product.html
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\product.html
+Content Type: text/html
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/checkout-shipping.html
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\checkout-shipping.html
+Content Type: text/html
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/ajax/product-quick-view.html
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\ajax\product-quick-view.html
+Content Type: text/html
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/category-banner-boxed-slider.html
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\category-banner-boxed-slider.html
+Content Type: text/html
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/category-banner-boxed-image.html
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\category-banner-boxed-image.html
+Content Type: text/html
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/category-sidebar-right.html
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\category-sidebar-right.html
+Content Type: text/html
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/category-flex-grid.html
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\category-flex-grid.html
+Content Type: text/html
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/category-horizontal-filter1.html
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\category-horizontal-filter1.html
+Content Type: text/html
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/category-horizontal-filter2.html
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\category-horizontal-filter2.html
+Content Type: text/html
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/category-list.html
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\category-list.html
+Content Type: text/html
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/category-infinite-scroll.html
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\category-infinite-scroll.html
+Content Type: text/html
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/category-4col.html
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\category-4col.html
+Content Type: text/html
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/category-5col.html
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\category-5col.html
+Content Type: text/html
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/category-6col.html
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\category-6col.html
+Content Type: text/html
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/category-7col.html
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\category-7col.html
+Content Type: text/html
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/category-8col.html
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\category-8col.html
+Content Type: text/html
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/product-full-width.html
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\product-full-width.html
+Content Type: text/html
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/product-addcart-sticky.html
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\product-addcart-sticky.html
+Content Type: text/html
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/product-sidebar-left.html
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\product-sidebar-left.html
+Content Type: text/html
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/product-sticky-tab.html
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\product-sticky-tab.html
+Content Type: text/html
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/product-simple.html
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\product-simple.html
+Content Type: text/html
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/product-extended-layout.html
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\product-extended-layout.html
+Content Type: text/html
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/product-grid-layout.html
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\product-grid-layout.html
+Content Type: text/html
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/product-sticky-both.html
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\product-sticky-both.html
+Content Type: text/html
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/product-sticky-info.html
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\product-sticky-info.html
+Content Type: text/html
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/checkout-shipping-2.html
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\checkout-shipping-2.html
+Content Type: text/html
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/checkout-review.html
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\checkout-review.html
+Content Type: text/html
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/dashboard.html
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\dashboard.html
+Content Type: text/html
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/single.html
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\single.html
+Content Type: text/html
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/forgot-password.html
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\forgot-password.html
+Content Type: text/html
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/images/flags/en.png
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\images\flags\en.png
+Content Type: image/png
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/images/flags/fr.png
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\images\flags\fr.png
+Content Type: image/png
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/images/logo.png
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\images\logo.png
+Content Type: image/png
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/images/products/cart/product-1.jpg
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\images\products\cart\product-1.jpg
+Content Type: image/jpeg
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/images/products/cart/product-2.jpg
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\images\products\cart\product-2.jpg
+Content Type: image/jpeg
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/images/lazy.png
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\images\lazy.png
+Content Type: image/png
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/images/banners/banner-1.jpg
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\images\banners\banner-1.jpg
+Content Type: image/jpeg
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/images/banners/banner-2.jpg
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\images\banners\banner-2.jpg
+Content Type: image/jpeg
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/images/banners/banner-3.jpg
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\images\banners\banner-3.jpg
+Content Type: image/jpeg
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/images/products/home-featured-1.jpg
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\images\products\home-featured-1.jpg
+Content Type: image/jpeg
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/images/products/home-featured-2.jpg
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\images\products\home-featured-2.jpg
+Content Type: image/jpeg
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/images/products/home-featured-3.jpg
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\images\products\home-featured-3.jpg
+Content Type: image/jpeg
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/images/products/home-featured-4.jpg
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\images\products\home-featured-4.jpg
+Content Type: image/jpeg
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/images/products/home-featured-5.jpg
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\images\products\home-featured-5.jpg
+Content Type: image/jpeg
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/images/brands/brand1.png
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\images\brands\brand1.png
+Content Type: image/png
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/images/brands/brand2.png
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\images\brands\brand2.png
+Content Type: image/png
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/images/brands/brand3.png
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\images\brands\brand3.png
+Content Type: image/png
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/images/brands/brand4.png
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\images\brands\brand4.png
+Content Type: image/png
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/images/brands/brand5.png
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\images\brands\brand5.png
+Content Type: image/png
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/images/brands/brand6.png
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\images\brands\brand6.png
+Content Type: image/png
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/images/products/small/product-1.jpg
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\images\products\small\product-1.jpg
+Content Type: image/jpeg
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/images/menu-banner.jpg
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\images\menu-banner.jpg
+Content Type: image/jpeg
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/images/menu-bg.png
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\images\menu-bg.png
+Content Type: image/png
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/images/clients/client-1.jpg
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\images\clients\client-1.jpg
+Content Type: image/jpeg
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/images/clients/client-2.jpg
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\images\clients\client-2.jpg
+Content Type: image/jpeg
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/images/clients/client-3.jpg
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\images\clients\client-3.jpg
+Content Type: image/jpeg
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/images/blog/home/post-1.jpg
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\images\blog\home\post-1.jpg
+Content Type: image/jpeg
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/images/blog/home/post-2.jpg
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\images\blog\home\post-2.jpg
+Content Type: image/jpeg
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/images/blog/home/post-3.jpg
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\images\blog\home\post-3.jpg
+Content Type: image/jpeg
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/images/logo-footer.png
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\images\logo-footer.png
+Content Type: image/png
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/images/payments.png
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\images\payments.png
+Content Type: image/png
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/images/logo-black.png
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\images\logo-black.png
+Content Type: image/png
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/js/plugins.min.js
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\js\plugins.min.js
+Content Type: application/javascript
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/js/main.min.js
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\js\main.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i
+File Name: C:\Downloaded Web Sites\portotheme.com\css.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700
+File Name: C:\Downloaded Web Sites\portotheme.com\css-1.css
+Content Type: text/css
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/fonts/porto.eot?64334846
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\fonts\porto.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/fonts/porto.woff2?64334846
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\fonts\porto.woff2
+Content Type: font/woff2
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/fonts/porto.woff?64334846
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\fonts\porto.woff
+Content Type: font/woff
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/fonts/porto.ttf?64334846
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\fonts\porto.ttf
+Content Type: font/ttf
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/fonts/porto.svg?64334846
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\fonts\porto.svg
+Content Type: image/svg+xml
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/vendor/fontawesome-free/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\vendor\fontawesome-free\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/vendor/fontawesome-free/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\vendor\fontawesome-free\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/vendor/fontawesome-free/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\vendor\fontawesome-free\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/vendor/fontawesome-free/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\vendor\fontawesome-free\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/vendor/fontawesome-free/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\vendor\fontawesome-free\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/vendor/fontawesome-free/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\vendor\fontawesome-free\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/vendor/fontawesome-free/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\vendor\fontawesome-free\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/vendor/fontawesome-free/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\vendor\fontawesome-free\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/vendor/fontawesome-free/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\vendor\fontawesome-free\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/vendor/fontawesome-free/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\vendor\fontawesome-free\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/vendor/fontawesome-free/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\vendor\fontawesome-free\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/vendor/fontawesome-free/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\vendor\fontawesome-free\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/vendor/fontawesome-free/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\vendor\fontawesome-free\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/vendor/fontawesome-free/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\vendor\fontawesome-free\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/vendor/fontawesome-free/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\vendor\fontawesome-free\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/vendor/fontawesome-free/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\vendor\fontawesome-free\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/vendor/fontawesome-free/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\vendor\fontawesome-free\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/vendor/fontawesome-free/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\vendor\fontawesome-free\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/vendor/simple-line-icons/fonts/Simple-Line-Icons.eot?nuc4d1
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\vendor\simple-line-icons\fonts\Simple-Line-Icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/vendor/simple-line-icons/fonts/Simple-Line-Icons.ttf?nuc4d1
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\vendor\simple-line-icons\fonts\Simple-Line-Icons.ttf
+Content Type: font/ttf
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/vendor/simple-line-icons/fonts/Simple-Line-Icons.woff?nuc4d1
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\vendor\simple-line-icons\fonts\Simple-Line-Icons.woff
+Content Type: font/woff
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/vendor/simple-line-icons/fonts/Simple-Line-Icons.svg?nuc4d1
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\vendor\simple-line-icons\fonts\Simple-Line-Icons.svg
+Content Type: image/svg+xml
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/images/banners/banner-top.jpg
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\images\banners\banner-top.jpg
+Content Type: image/jpeg
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/images/products/product-1.jpg
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\images\products\product-1.jpg
+Content Type: image/jpeg
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/images/products/product-2.jpg
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\images\products\product-2.jpg
+Content Type: image/jpeg
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/images/products/product-3.jpg
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\images\products\product-3.jpg
+Content Type: image/jpeg
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/images/products/product-5.jpg
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\images\products\product-5.jpg
+Content Type: image/jpeg
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/images/products/product-6.jpg
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\images\products\product-6.jpg
+Content Type: image/jpeg
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/images/products/product-7.jpg
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\images\products\product-7.jpg
+Content Type: image/jpeg
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/images/products/product-4.jpg
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\images\products\product-4.jpg
+Content Type: image/jpeg
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/images/products/product-8.jpg
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\images\products\product-8.jpg
+Content Type: image/jpeg
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/images/products/product-9.jpg
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\images\products\product-9.jpg
+Content Type: image/jpeg
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/images/products/product-10.jpg
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\images\products\product-10.jpg
+Content Type: image/jpeg
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/images/products/product-11.jpg
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\images\products\product-11.jpg
+Content Type: image/jpeg
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/images/products/product-12.jpg
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\images\products\product-12.jpg
+Content Type: image/jpeg
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/images/products/product-13.jpg
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\images\products\product-13.jpg
+Content Type: image/jpeg
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/images/products/product-14.jpg
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\images\products\product-14.jpg
+Content Type: image/jpeg
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/js/nouislider.min.js
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\js\nouislider.min.js
+Content Type: application/javascript
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/images/page-header-bg.jpg
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\images\page-header-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/images/clients/client1.png
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\images\clients\client1.png
+Content Type: image/png
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/images/clients/client2.png
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\images\clients\client2.png
+Content Type: image/png
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/images/blog/post-1.jpg
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\images\blog\post-1.jpg
+Content Type: image/jpeg
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/images/blog/post-2.jpg
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\images\blog\post-2.jpg
+Content Type: image/jpeg
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/images/blog/post-3.jpg
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\images\blog\post-3.jpg
+Content Type: image/jpeg
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/images/blog/widget/post-1.jpg
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\images\blog\widget\post-1.jpg
+Content Type: image/jpeg
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/images/blog/widget/post-2.jpg
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\images\blog\widget\post-2.jpg
+Content Type: image/jpeg
+
+Uri: https://maps.googleapis.com/maps/api/js?key=AIzaSyDc3LRykbLB-y8MuomRUIY0qH5S6xgBLX4
+File Name: C:\Downloaded Web Sites\portotheme.com\maps\api\js
+Content Type: text/javascript
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/js/map.js
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\js\map.js
+Content Type: application/javascript
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/images/products/zoom/product-1.jpg
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\images\products\zoom\product-1.jpg
+Content Type: image/jpeg
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/images/products/zoom/product-2.jpg
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\images\products\zoom\product-2.jpg
+Content Type: image/jpeg
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/images/products/zoom/product-3.jpg
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\images\products\zoom\product-3.jpg
+Content Type: image/jpeg
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/images/products/zoom/product-4.jpg
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\images\products\zoom\product-4.jpg
+Content Type: image/jpeg
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/images/avatar/avatar1.jpg
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\images\avatar\avatar1.jpg
+Content Type: image/jpeg
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/images/avatar/avatar2.jpg
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\images\avatar\avatar2.jpg
+Content Type: image/jpeg
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/images/avatar/avatar3.jpg
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\images\avatar\avatar3.jpg
+Content Type: image/jpeg
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/images/products/single/extended/bg-4.jpg
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\images\products\single\extended\bg-4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.youtube.com/watch?v=Ph_VkTVmXh4
+File Name: C:\Downloaded Web Sites\portotheme.com\watch.html
+Content Type: text/html
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/images/products/zoom/product-1-big.jpg
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\images\products\zoom\product-1-big.jpg
+Content Type: image/jpeg
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/images/products/zoom/product-2-big.jpg
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\images\products\zoom\product-2-big.jpg
+Content Type: image/jpeg
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/images/products/zoom/product-3-big.jpg
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\images\products\zoom\product-3-big.jpg
+Content Type: image/jpeg
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/images/products/single/extended/icon-play.png
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\images\products\single\extended\icon-play.png
+Content Type: image/png
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/images/products/single/product-img.jpg
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\images\products\single\product-img.jpg
+Content Type: image/jpeg
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/images/products/single/body-shape.png
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\images\products\single\body-shape.png
+Content Type: image/png
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/images/products/single/extended/bg-1.jpg
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\images\products\single\extended\bg-1.jpg
+Content Type: image/jpeg
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/images/products/single/extended/bg-2.jpg
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\images\products\single\extended\bg-2.jpg
+Content Type: image/jpeg
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/images/products/single/extended/bg-3.jpg
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\images\products\single\extended\bg-3.jpg
+Content Type: image/jpeg
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/images/blog/author.jpg
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\images\blog\author.jpg
+Content Type: image/jpeg
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/images/blog/related/post-1.jpg
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\images\blog\related\post-1.jpg
+Content Type: image/jpeg
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/images/blog/related/post-2.jpg
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\images\blog\related\post-2.jpg
+Content Type: image/jpeg
+
+Uri: https://portotheme.com/html/porto_ecommerce/demo_6/assets/images/blog/related/post-3.jpg
+File Name: C:\Downloaded Web Sites\portotheme.com\html\porto_ecommerce\demo_6\assets\images\blog\related\post-3.jpg
+Content Type: image/jpeg
+
+Uri: https://themeforest.net/item/porto-ecommerce-shop-template/22685562?irgwc=1&clickid=&iradid=275988&irpid=1287179&iradtype=ONLINE_TRACKING_LINK&irmptype=&mp_value1=&utm_campaign=af_impact_radius_1287179&utm_medium=affiliate&utm_source=impact_radius
+File Name: C:\Downloaded Web Sites\portotheme.com\item\porto-ecommerce-shop-template\22685562.html
+Content Type: text/html
+
